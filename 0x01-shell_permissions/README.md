@@ -10,3 +10,4 @@
 9- a script that sets the mode of the file hello
 10-a script that sets the mode of the file hello to the same as olleh mode.
 11-a script that add execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
+12-a script that creates a directory called my_dir with permissions 751 in the working directory.
